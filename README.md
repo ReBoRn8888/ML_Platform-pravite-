@@ -1,6 +1,6 @@
 # This is a private repo. If you want to use it, contact me(51174500068@stu.ecnu.edu.cn)
 
-This is a Machine Learning Platform written by QT. Details can be seen [here](https://reborn8888.github.io/ML_Platform.html).
+This is a Machine Learning Platform written by QT. Details can be seen [here](https://reborn8888.com/about/Projects/ML_Platform.html).
 
 You can do some quick verifications about image classification and object detection with this platform.
 
